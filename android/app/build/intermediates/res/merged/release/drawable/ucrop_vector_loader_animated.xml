@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/ucrop_vector_loader">
+    <target
+        android:name="circleGroup"
+        android:animation="@anim/ucrop_loader_circle_scale"/>
+    <target
+        android:name="circlePath"
+        android:animation="@anim/ucrop_loader_circle_path"/>
+
+</animated-vector><!-- From: file:/C:/Users/min/movely_react_new/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/drawable/ucrop_vector_loader_animated.xml -->

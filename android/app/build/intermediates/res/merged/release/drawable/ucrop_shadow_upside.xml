@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+    <gradient
+        android:angle="270"
+        android:endColor="#14232323"
+        android:startColor="@android:color/transparent"/>
+</shape><!-- From: file:/C:/Users/min/movely_react_new/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/drawable/ucrop_shadow_upside.xml -->

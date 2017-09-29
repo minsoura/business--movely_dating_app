@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" path="."/>
+</paths><!-- From: file:/C:/Users/min/movely_react_new/node_modules/react-native-image-crop-picker/android/src/main/res/xml/provider_paths.xml -->

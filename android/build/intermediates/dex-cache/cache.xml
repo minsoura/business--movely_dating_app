@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-fd9abeaab2f9b3ad04a364bffe899b7d74341bb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-c8ea6cb57bd488d2b38e186dd169d72d06d6903d.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-572af0a015501732fa618b094ec0ec0864a74ed3.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-868798f0681414e3b58187f41d271c47c6cbb5e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33dd1355819e187a8835472d20882dd940de03ba">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-86e0586f69b33c518b3351be726d97bebfc1c27b.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-60838fef1971ce14002579d485dcc1fdc912ac1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-8714304db4041d4b6853ba41f937d3f0d7916c91.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-60838fef1971ce14002579d485dcc1fdc912ac1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-2c252541f86f6766e2ef032eb54939080cee47c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-7761837949ab66dd47fc855ee4d4b28e220828f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-abc704e294d350f2b7a84f9f4eb471ecaea481b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-d82689d8a4532bf2ba603ce4a493902451974a65.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-141a0b589b5baeec8cc5154f6d564605d45865c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-code-push\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9b171fa4f66ee23580a047cd2ac20bb439fc3dbc">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-47dfe78418bf1ba6d9963c7d5f8a8cf191791e8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-50be282753eb6a34e48109153301f855efe070a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-3919a4bafff8b8548990ddaf1385be2fb95c9bf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-df3b84064d1872ad0a734f40956720cd69d11318.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-a29be9e9114db9821b635ebc80eca96cd6510412.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-7889153b6051275e1733fd363383c74f5c129dbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-3aa8b707a66da24fb2a5efbc932f50996e34f58a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1-542fe262883beb0b9133028668b3b8bf3c8bc08e.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-f98f49a6cb27de4a4e7ac989e2db23caa1a7f23a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-a8ed6d53db230c63554e9261496dd18b0d01ed08.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-3aa8b707a66da24fb2a5efbc932f50996e34f58a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.yalantis\ucrop\2.2.0-native\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-f84af8c1bd67d224253d17b582b239049b22e441.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-image-crop-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5bad59d23566fea0c378451b9f96dc587022200f">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-ba1bdfd0c1f9cc3497ec8d1e72bf92893108e591.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-a8ed6d53db230c63554e9261496dd18b0d01ed08.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-c00809769a3d1fe05eb5d32bddfbd4bac71b06ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-68fac1128add11862d3318594f924a576ec17f82.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-f98f49a6cb27de4a4e7ac989e2db23caa1a7f23a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bdb8bba4f9defc08db3011843c190298918a8a47">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-e50ce8439c0f57b0223edfc6c6937c1d05b9eb37.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-i18n\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="76ed9f36769cf13661b12c603609f8bfb1281592">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-ef0b907ac471df03b2bddc74296f59ed69f34ab2.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-89518fa09bb486b2f947cd251a6f3e9a87f0408a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-29c77bf5099e036de934b0aac6bcf7955c9b3fe6.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-905d092abdc46124bd6f69de8a9d147e4ca16cba.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-437465352a358f07cd739c7873db65962e0e8d04.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-e255d4a2c0554b2c51ffc39268c1d57cacc1d609.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-8714304db4041d4b6853ba41f937d3f0d7916c91.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-905d092abdc46124bd6f69de8a9d147e4ca16cba.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-2c252541f86f6766e2ef032eb54939080cee47c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-68fac1128add11862d3318594f924a576ec17f82.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-89518fa09bb486b2f947cd251a6f3e9a87f0408a.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-1ae084a97fa8cda9fc458c2108a9333843e1ab53.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-e255d4a2c0554b2c51ffc39268c1d57cacc1d609.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-7508889c8d67ef72e083f744e5e024796c4e483c.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-087d3990daabeb62b01090c819ab6cdb60f442c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-abc704e294d350f2b7a84f9f4eb471ecaea481b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-a8f9cb9b4d36f0977def17b33f2367626732edeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-141a0b589b5baeec8cc5154f6d564605d45865c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-1ae084a97fa8cda9fc458c2108a9333843e1ab53.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-def17ba4a42234e7b7708d0c43880343bfae001e.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-437465352a358f07cd739c7873db65962e0e8d04.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-a8f9cb9b4d36f0977def17b33f2367626732edeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-087d3990daabeb62b01090c819ab6cdb60f442c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-610acc4759bc6c6959c984c7d980767851a53cc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-fd9abeaab2f9b3ad04a364bffe899b7d74341bb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-dddc502f23acd6877840c1f14f07c4894436708e.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-c8ea6cb57bd488d2b38e186dd169d72d06d6903d.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.yalantis\ucrop\2.2.0-native\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-f84af8c1bd67d224253d17b582b239049b22e441.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-dddc502f23acd6877840c1f14f07c4894436708e.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-5c3056172fca41f8c26c067aa1d72f7e650f5bf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-a29be9e9114db9821b635ebc80eca96cd6510412.jar" />
+    </item>
+    <item
+        jar="C:\Users\min\movely_react_new\android\app\build\intermediates\exploded-aar\Movely\react-native-video\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6f2c567a26f748c954efb47451219fbce9422c4a">
+        <dex dex="C:\Users\min\movely_react_new\android\app\build\intermediates\pre-dexed\debug\classes-217a44496c415c2c4f48db66c70da98ac664f3b9.jar" />
+    </item>
+
+</items>
